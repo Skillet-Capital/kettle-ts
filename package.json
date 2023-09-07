@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Skillet-Capital/kettle-ts/issues"
   },
-  "homepage": "https://github.com/Skillet-Capital/kettle-ts#readme"
+  "homepage": "https://github.com/Skillet-Capital/kettle-ts#readme",
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
 }
